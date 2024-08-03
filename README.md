@@ -5,10 +5,8 @@
 ## Skills
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vuejs,php)](https://skillicons.dev)
 
-### Design
-[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
-
+ 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
