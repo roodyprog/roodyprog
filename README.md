@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oh hi there ! 👋
 
-<!--
-**roodyprog/roodyprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roodyprog&layout=compact)](https://github.com/roodyprog)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,)](https://skillicons.dev)
+
+### Design
+[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx)](https://skillicons.dev)
